@@ -1,0 +1,12 @@
+Student: 
+Name: Anna
+Address: 912 Sherman Way
+GPA: 2.9
+Student: 
+Name: Ivy
+Address: 78 Boston St
+GPA: 3.9
+Student: 
+Name: Tina
+Address: 63 Palm Dr
+GPA: 3.3
